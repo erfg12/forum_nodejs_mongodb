@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5eb0cd06f30a1e77df6dd0be"
+  },
+  "post_title": "test title",
+  "post_body": "test body",
+  "post_timestamp": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "author_id": "1",
+  "category_id": 1
+}]
